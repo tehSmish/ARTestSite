@@ -1,0 +1,72 @@
+2023-11-21T18:18:54+00:00 CRITICAL Uncaught Error: Undefined constant "‘Categories’" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php:2
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template.php(790): require_once()
+#1 /home/vagrant/code/wordpress/wp-includes/template.php(725): load_template()
+#2 /home/vagrant/code/wordpress/wp-includes/general-template.php(136): locate_template()
+#3 /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php(16): get_sidebar()
+#4 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /home/vagrant/code/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php on line 2
+
+2023-11-21T18:18:55+00:00 CRITICAL Uncaught Error: Undefined constant "‘Categories’" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php:2
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template.php(790): require_once()
+#1 /home/vagrant/code/wordpress/wp-includes/template.php(725): load_template()
+#2 /home/vagrant/code/wordpress/wp-includes/general-template.php(136): locate_template()
+#3 /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php(16): get_sidebar()
+#4 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /home/vagrant/code/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php on line 2
+
+2023-11-21T18:18:55+00:00 CRITICAL Uncaught Error: Undefined constant "‘Categories’" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php:2
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template.php(790): require_once()
+#1 /home/vagrant/code/wordpress/wp-includes/template.php(725): load_template()
+#2 /home/vagrant/code/wordpress/wp-includes/general-template.php(136): locate_template()
+#3 /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php(16): get_sidebar()
+#4 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /home/vagrant/code/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php on line 2
+
+2023-11-21T18:18:55+00:00 CRITICAL Uncaught Error: Undefined constant "‘Categories’" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php:2
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template.php(790): require_once()
+#1 /home/vagrant/code/wordpress/wp-includes/template.php(725): load_template()
+#2 /home/vagrant/code/wordpress/wp-includes/general-template.php(136): locate_template()
+#3 /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php(16): get_sidebar()
+#4 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /home/vagrant/code/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php on line 2
+
+2023-11-21T18:18:55+00:00 CRITICAL Uncaught Error: Undefined constant "‘Categories’" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php:2
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template.php(790): require_once()
+#1 /home/vagrant/code/wordpress/wp-includes/template.php(725): load_template()
+#2 /home/vagrant/code/wordpress/wp-includes/general-template.php(136): locate_template()
+#3 /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php(16): get_sidebar()
+#4 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /home/vagrant/code/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php on line 2
+
+2023-11-21T18:18:55+00:00 CRITICAL Uncaught Error: Undefined constant "‘Categories’" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php:2
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template.php(790): require_once()
+#1 /home/vagrant/code/wordpress/wp-includes/template.php(725): load_template()
+#2 /home/vagrant/code/wordpress/wp-includes/general-template.php(136): locate_template()
+#3 /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php(16): get_sidebar()
+#4 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /home/vagrant/code/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php on line 2
+

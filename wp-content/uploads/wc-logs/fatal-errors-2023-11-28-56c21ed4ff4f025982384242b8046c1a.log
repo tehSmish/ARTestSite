@@ -1,0 +1,40 @@
+2023-11-28T14:20:21+00:00 CRITICAL Uncaught Error: Undefined constant "php" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php:4
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /home/vagrant/code/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php on line 4
+
+2023-11-28T14:20:21+00:00 CRITICAL Uncaught Error: Undefined constant "php" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php:4
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /home/vagrant/code/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php on line 4
+
+2023-11-28T14:20:21+00:00 CRITICAL Uncaught Error: Undefined constant "php" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php:4
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /home/vagrant/code/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php on line 4
+
+2023-11-28T14:20:21+00:00 CRITICAL Uncaught Error: Undefined constant "php" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php:4
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /home/vagrant/code/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php on line 4
+
+2023-11-28T14:20:21+00:00 CRITICAL Uncaught Error: Undefined constant "php" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php:4
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /home/vagrant/code/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php on line 4
+

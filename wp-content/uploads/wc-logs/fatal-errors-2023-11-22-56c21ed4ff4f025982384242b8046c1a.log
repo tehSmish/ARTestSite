@@ -1,0 +1,116 @@
+2023-11-22T19:26:04+00:00 CRITICAL Cannot redeclare register_nav_menus() (previously declared in /home/vagrant/code/wordpress/wp-includes/nav-menu.php:90) in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/functions.php on line 8
+
+2023-11-22T19:27:37+00:00 CRITICAL Cannot redeclare register_nav_menus() (previously declared in /home/vagrant/code/wordpress/wp-includes/nav-menu.php:90) in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/functions.php on line 8
+
+2023-11-22T19:27:37+00:00 CRITICAL Cannot redeclare register_nav_menus() (previously declared in /home/vagrant/code/wordpress/wp-includes/nav-menu.php:90) in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/functions.php on line 8
+
+2023-11-22T19:27:38+00:00 CRITICAL Cannot redeclare register_nav_menus() (previously declared in /home/vagrant/code/wordpress/wp-includes/nav-menu.php:90) in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/functions.php on line 8
+
+2023-11-22T19:27:49+00:00 CRITICAL Cannot redeclare register_nav_menus() (previously declared in /home/vagrant/code/wordpress/wp-includes/nav-menu.php:90) in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/functions.php on line 8
+
+2023-11-22T19:27:56+00:00 CRITICAL Cannot redeclare register_nav_menus() (previously declared in /home/vagrant/code/wordpress/wp-includes/nav-menu.php:90) in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/functions.php on line 8
+
+2023-11-22T19:28:02+00:00 CRITICAL Cannot redeclare register_nav_menus() (previously declared in /home/vagrant/code/wordpress/wp-includes/nav-menu.php:90) in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/functions.php on line 8
+
+2023-11-22T19:30:18+00:00 CRITICAL Cannot redeclare register_nav_menus() (previously declared in /home/vagrant/code/wordpress/wp-includes/nav-menu.php:90) in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/functions.php on line 8
+
+2023-11-22T19:45:34+00:00 CRITICAL Uncaught Error: Call to undefined function get_nav() in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php:5
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /home/vagrant/code/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php on line 5
+
+2023-11-22T19:45:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_nav() in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php:5
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /home/vagrant/code/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php on line 5
+
+2023-11-22T19:45:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_nav() in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php:5
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /home/vagrant/code/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php on line 5
+
+2023-11-22T19:45:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_nav() in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php:5
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /home/vagrant/code/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php on line 5
+
+2023-11-22T19:45:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_nav() in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php:5
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include()
+#1 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#2 /home/vagrant/code/wordpress/index.php(17): require('...')
+#3 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php on line 5
+
+2023-11-22T19:58:50+00:00 CRITICAL Uncaught Error: Undefined constant "‘Categories’" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php:2
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template.php(790): require_once()
+#1 /home/vagrant/code/wordpress/wp-includes/template.php(725): load_template()
+#2 /home/vagrant/code/wordpress/wp-includes/general-template.php(136): locate_template()
+#3 /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php(19): get_sidebar()
+#4 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /home/vagrant/code/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php on line 2
+
+2023-11-22T19:58:51+00:00 CRITICAL Uncaught Error: Undefined constant "‘Categories’" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php:2
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template.php(790): require_once()
+#1 /home/vagrant/code/wordpress/wp-includes/template.php(725): load_template()
+#2 /home/vagrant/code/wordpress/wp-includes/general-template.php(136): locate_template()
+#3 /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php(19): get_sidebar()
+#4 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /home/vagrant/code/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php on line 2
+
+2023-11-22T19:58:51+00:00 CRITICAL Uncaught Error: Undefined constant "‘Categories’" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php:2
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template.php(790): require_once()
+#1 /home/vagrant/code/wordpress/wp-includes/template.php(725): load_template()
+#2 /home/vagrant/code/wordpress/wp-includes/general-template.php(136): locate_template()
+#3 /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php(19): get_sidebar()
+#4 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /home/vagrant/code/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php on line 2
+
+2023-11-22T19:58:51+00:00 CRITICAL Uncaught Error: Undefined constant "‘Categories’" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php:2
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template.php(790): require_once()
+#1 /home/vagrant/code/wordpress/wp-includes/template.php(725): load_template()
+#2 /home/vagrant/code/wordpress/wp-includes/general-template.php(136): locate_template()
+#3 /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php(19): get_sidebar()
+#4 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /home/vagrant/code/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php on line 2
+
+2023-11-22T19:58:52+00:00 CRITICAL Uncaught Error: Undefined constant "‘Categories’" in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php:2
+Stack trace:
+#0 /home/vagrant/code/wordpress/wp-includes/template.php(790): require_once()
+#1 /home/vagrant/code/wordpress/wp-includes/template.php(725): load_template()
+#2 /home/vagrant/code/wordpress/wp-includes/general-template.php(136): locate_template()
+#3 /home/vagrant/code/wordpress/wp-content/themes/ar-theme/index.php(19): get_sidebar()
+#4 /home/vagrant/code/wordpress/wp-includes/template-loader.php(106): include('...')
+#5 /home/vagrant/code/wordpress/wp-blog-header.php(19): require_once('...')
+#6 /home/vagrant/code/wordpress/index.php(17): require('...')
+#7 {main}
+  thrown in /home/vagrant/code/wordpress/wp-content/themes/ar-theme/sidebar.php on line 2
+
